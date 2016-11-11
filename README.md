@@ -1,5 +1,6 @@
-## Magento 2 Catalan Language Pack
+# Magento 2 Catalan Language Pack
 
+Read more [Magento 2 Catalan Language Pack](https://www.mageplaza.com/magento-2-catalan-language-pack.html)
 
 ## How to Install Catalan Language Pack
 
@@ -25,3 +26,5 @@ php bin/magento cache:clean
 php bin/magento setup:static-content:deploy ca-es
 
 ```
+
+Ref: https://www.mageplaza.com/magento-2-catalan-language-pack.html
