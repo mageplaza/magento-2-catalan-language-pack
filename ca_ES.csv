@@ -1,5 +1,5 @@
 "All","Tot",module,Magento_AdminGws
-"None","Res",module,Magento_AdminGws
+"None","Cap",module,Magento_AdminGws
 "Allowed Scopes","Àmbits permesos",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","Permisos insuficients per eliminar l'element ""%1"".",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Cal més permisos per aplicar algunes de les actualitzacions de les regles.",module,Magento_AdminGws
@@ -11,9 +11,9 @@
 "More permissions are needed to view this item.","Permisos insuficients per visualitzar l'element.",module,Magento_AdminGws
 "At least one website or store group needs to be selected. Select and try again.","Cal seleccionar com a mínim un lloc web o un grup de botigues. Seleccioneu-ho i torneu a provar.",module,Magento_AdminGws
 "More permissions are needed to set All Scopes to a Role.","Permisos insuficients per assignar Tots els Àmbits a un Rol.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","L'ID de lloc web ""%1"" és incorrecte. Verifiqueu l'ID de lloc web i torneu-ho a provar.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","L'ID del lloc web ""%1"" és incorrecte. Verifiqueu l'ID del lloc web i torneu-ho a provar.",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","Permisos insuficients per accedir al lloc web ""%1"".",module,Magento_AdminGws
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","L'ID de botiga ""%1"" és incorrecte. Verifiqueu l'ID de botiga i torneu-ho a provar.",module,Magento_AdminGws
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","L'ID de la botiga ""%1"" és incorrecte. Verifiqueu l'ID de la botiga i torneu-ho a provar.",module,Magento_AdminGws
 "More permissions are needed to save this setting.","Permisos insuficients per desar aquest paràmetre.",module,Magento_AdminGws
 "Role Scopes","Àmbits de Rol",module,Magento_AdminGws
 "Custom","Personalitzat",module,Magento_AdminGws
@@ -31,7 +31,7 @@
 "We couldn't mark the notification as Read because of an error.","No podem marcar la notificació com a llegida a causa d'un error.",module,Magento_AdminNotification
 "Please select messages.","Seleccioneu missatges si us plau.",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","%1 registre(s) s'ha(n) marcat com a llegit(s).",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","%1 registre(s) s'ha(n) eliminat.",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed.","Un total de %1 registre(s) s'ha(n) eliminat.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","No podem eliminar els missatges a causa d'un error.",module,Magento_AdminNotification
 "The message has been removed.","S'ha eliminat el missatge.",module,Magento_AdminNotification
 "You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","S'han vist i resolt totes les notificacions de sistema recents. Si us plau, refresqueu la pàgina per netejar les alertes.",module,Magento_AdminNotification
@@ -239,36 +239,36 @@
 "RPC call failed, connection timed out after %time_out.","Ha fallat la crida RPC, temps d'espera esgotat després de %time_out.",module,Magento_Amqp
 "Message has been rejected: %1","Missatge rebutjat: %1",module,Magento_Amqp
 "Error while checking if topic is synchronous","Error mentre es comprovava si el tema és síncron",module,Magento_Amqp
-"Subscription status","Subscription status",module,Magento_Analytics
-"Sorry, there has been an error processing your request. Please try again later.","Sorry, there has been an error processing your request. Please try again later.",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Cron settings can't be saved","Cron settings can't be saved",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"--Please Select--","--Please Select--",module,Magento_Analytics
-"Command was not found.","Command was not found.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"These arguments can't be empty ""%1""","These arguments can't be empty ""%1""",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-"File is not ready yet.","File is not ready yet.",module,Magento_Analytics
-"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.",module,Magento_Analytics
-"Failed to synchronize data to the Magento Business Intelligence service.","Failed to synchronize data to the Magento Business Intelligence service.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
-"TestMessage","TestMessage",module,Magento_Analytics
-"Apps and Games","Apps and Games",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
-"Art and Design","Art and Design",module,Magento_Analytics
-"Advanced Reporting","Advanced Reporting",module,Magento_Analytics
-"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.",module,Magento_Analytics
-"Go to Advanced Reporting","Go to Advanced Reporting",module,Magento_Analytics
-"Analytics","Analytics",module,Magento_Analytics
+"Subscription status","Estat de la subscripció",module,Magento_Analytics
+"Sorry, there has been an error processing your request. Please try again later.","Ho sento, hi ha hagut un problema progressant la petició. Si us plau, prova-ho més tard.",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","El valor de temps està utilitzant un format no suportat. Entra un format correcte i prova-ho un altre cop.",module,Magento_Analytics
+"Cron settings can't be saved","Les configuracions del Cron no poden ser guardades",module,Magento_Analytics
+"There was an error save new configuration value.","N'hi ha hagut un error al guardar el valor de la nova configuració.",module,Magento_Analytics
+"Please select an industry.","Siusplau seleccioni una indústria.",module,Magento_Analytics
+"--Please Select--","--Siusplau Seleccioni--",module,Magento_Analytics
+"Command was not found.","La comanda no s'ha trobat.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Les dades no són vàlides. Ingressi les dades com una cadena o dades que es puguin transformar en una cadena i torna-ho a provar.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Les dades no són vàlides. Ingressi les dades com una cadena i torna-ho a provar.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Les dades no són vàlides. Utilitzi un mètode de xifratge vàlid i torna-ho a provar.",module,Magento_Analytics
+"Enter the encryption key and try again.","Insereix la clau encriptada i trona-ho a provar.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","L'origen de ""%1"" no existeix.",module,Magento_Analytics
+"These arguments can't be empty ""%1""","Aquests arguments no poden ser vuits ""%1""",module,Magento_Analytics
+"Cannot find predefined integration user!","No es pot trobar l'usuari d'integració predefinit!",module,Magento_Analytics
+"File is not ready yet.","El fitxer no està llest encara.",module,Magento_Analytics
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","L'URL base ha sigut canviada i els teus reports han sigut actualitzats. Els reports avançats estaran disponibles un cop els canvis siguin processats. Si us plau, intenta-ho més tard.",module,Magento_Analytics
+"Failed to synchronize data to the Magento Business Intelligence service.","Error al sincronitzar les dades del servei de Magento Business Intelligence.",module,Magento_Analytics
+"Retry Synchronization","Torneu a provar la sincronització",module,Magento_Analytics
+"TestMessage","Missatge de prova",module,Magento_Analytics
+"Apps and Games","Aplicacions i jocs",module,Magento_Analytics
+"Athletic/Sporting Goods","Atlètics/Béns esportius",module,Magento_Analytics
+"Art and Design","Art i Disseny",module,Magento_Analytics
+"Advanced Reporting","Informes avançats",module,Magento_Analytics
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Guanyi noves visites i prengui les rendes del rendiment del seu negoci, utilitzant els nostres informes dinàmics de productes, comandes i clients adaptats a les dades dels seus clients.",module,Magento_Analytics
+"Go to Advanced Reporting","Vés als informes avançats",module,Magento_Analytics
+"Analytics","Anàlisi",module,Magento_Analytics
 "API","API",module,Magento_Analytics
-"Configuration","Configuration",module,Magento_Analytics
-"Business Intelligence","Business Intelligence",module,Magento_Analytics
+"Configuration","Configuració",module,Magento_Analytics
+"Business Intelligence","Intel·ligència de negoci",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
@@ -277,34 +277,34 @@
                 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
                 ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
                 terms and conditions</a>.",module,Magento_Analytics
-"Advanced Reporting Service","Advanced Reporting Service",module,Magento_Analytics
-"Time of day to send data","Time of day to send data",module,Magento_Analytics
-"Industry","Industry",module,Magento_Analytics
-"In order to personalize your Advanced Reporting experience, please select your industry.","In order to personalize your Advanced Reporting experience, please select your industry.",module,Magento_Analytics
-"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Get more insights from Magento Business Intelligence</strong>",module,Magento_Analytics
+"Advanced Reporting Service","Servei d'informes avançats",module,Magento_Analytics
+"Time of day to send data","Hora del dia per enviar dades",module,Magento_Analytics
+"Industry","Indústria",module,Magento_Analytics
+"In order to personalize your Advanced Reporting experience, please select your industry.","Per personalitzar l'experiència en els informes avançats, si un plau, seleccioni el tipus de negoci.",module,Magento_Analytics
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obtingui més idees amb Magneto Business Intelligence</strong>",module,Magento_Analytics
 "Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence provides you with a simple and clear path to
                     becoming more data driven.</br> Learn more about <a target=""_blank""
                     href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.",module,Magento_Analytics
-"Auto Parts","Auto Parts",module,Magento_Analytics
+"Auto Parts","Peces d'automòbil",module,Magento_Analytics
 "Baby/Children’s Apparel, Gear and Toys","Baby/Children’s Apparel, Gear and Toys",module,Magento_Analytics
-"Beauty and Cosmetics","Beauty and Cosmetics",module,Magento_Analytics
-"Books, Music and Magazines","Books, Music and Magazines",module,Magento_Analytics
-"Crafts and Stationery","Crafts and Stationery",module,Magento_Analytics
-"Consumer Electronics","Consumer Electronics",module,Magento_Analytics
-"Deal Site","Deal Site",module,Magento_Analytics
-"Fashion Apparel and Accessories","Fashion Apparel and Accessories",module,Magento_Analytics
-"Food, Beverage and Grocery","Food, Beverage and Grocery",module,Magento_Analytics
+"Beauty and Cosmetics","Bellesa i Cosmètics",module,Magento_Analytics
+"Books, Music and Magazines","Llibres, Música i Revistes",module,Magento_Analytics
+"Crafts and Stationery","Artesanies i Papereria",module,Magento_Analytics
+"Consumer Electronics","Electrònica de Consum",module,Magento_Analytics
+"Deal Site","Lloc de Ofertes",module,Magento_Analytics
+"Fashion Apparel and Accessories","Roba i Accessoris de Moda",module,Magento_Analytics
+"Food, Beverage and Grocery","Aliments, Begudes i Ultramarins",module,Magento_Analytics
 "Home Goods and Furniture","Home Goods and Furniture",module,Magento_Analytics
-"Home Improvement","Home Improvement",module,Magento_Analytics
-"Jewelry and Watches","Jewelry and Watches",module,Magento_Analytics
+"Home Improvement","Millores per a la llar",module,Magento_Analytics
+"Jewelry and Watches","Joieria i Rellotges",module,Magento_Analytics
 "Mass Merchant","Mass Merchant",module,Magento_Analytics
-"Office Supplies","Office Supplies",module,Magento_Analytics
+"Office Supplies","Material d'oficina",module,Magento_Analytics
 "Outdoor and Camping Gear","Outdoor and Camping Gear",module,Magento_Analytics
 "Pet Goods","Pet Goods",module,Magento_Analytics
-"Pharma and Medical Devices","Pharma and Medical Devices",module,Magento_Analytics
-"Technology B2B","Technology B2B",module,Magento_Analytics
+"Pharma and Medical Devices","Dispositius farmacològics i mèdics",module,Magento_Analytics
+"Technology B2B","Tecnologia B2B",module,Magento_Analytics
 "Other","Other",module,Magento_Analytics
 "Back","Back",module,Magento_AsynchronousOperations
 "Done","Done",module,Magento_AsynchronousOperations
@@ -428,59 +428,59 @@
 "Please Select","Please Select",module,Magento_B2b
 "%s of %s selected","%s of %s selected",module,Magento_B2b
 "B2B Features","B2B Features",module,Magento_B2b
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
-"Cache Storage Management","Cache Storage Management",module,Magento_Backend
-"Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
+"Invalid Form Key. Please refresh the page.","Clau de formulari invàlida. Si us plau, refresca la pàgina.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","Has introduït una clau secreta invàlida. Si us plau, actualiza la pàgina.",module,Magento_Backend
+"Cache Storage Management","Gestió d'emmagatzematge de caché",module,Magento_Backend
+"Flush Magento Cache","Buidar la caché de Magento",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
-"Flush Cache Storage","Flush Cache Storage",module,Magento_Backend
-"Invalidated","Invalidated",module,Magento_Backend
-"Orders","Orders",module,Magento_Backend
-"Amounts","Amounts",module,Magento_Backend
-"Bestsellers","Bestsellers",module,Magento_Backend
-"Most Viewed Products","Most Viewed Products",module,Magento_Backend
-"New Customers","New Customers",module,Magento_Backend
-"Customers","Customers",module,Magento_Backend
-"Customer","Customer",module,Magento_Backend
-"Guest","Guest",module,Magento_Backend
-"Items","Items",module,Magento_Backend
+"Flush Cache Storage","Buidar l'emmagatzematge de caché",module,Magento_Backend
+"Invalidated","Invalidat",module,Magento_Backend
+"Orders","Comandes",module,Magento_Backend
+"Amounts","Quantitats",module,Magento_Backend
+"Bestsellers","Més venuts",module,Magento_Backend
+"Most Viewed Products","Productes més vists",module,Magento_Backend
+"New Customers","Nous clients",module,Magento_Backend
+"Customers","Clients",module,Magento_Backend
+"Customer","Client",module,Magento_Backend
+"Guest","Convidat",module,Magento_Backend
+"Items","Elements",module,Magento_Backend
 "Total","Total",module,Magento_Backend
 "Lifetime Sales","Lifetime Sales",module,Magento_Backend
-"Average Order","Average Order",module,Magento_Backend
-"Average","Average",module,Magento_Backend
-"Product","Product",module,Magento_Backend
-"Price","Price",module,Magento_Backend
-"Quantity","Quantity",module,Magento_Backend
-"Views","Views",module,Magento_Backend
+"Average Order","Mitjana de comandes",module,Magento_Backend
+"Average","Mitjana",module,Magento_Backend
+"Product","Producte",module,Magento_Backend
+"Price","Preu",module,Magento_Backend
+"Quantity","Quantitat",module,Magento_Backend
+"Views","Vistes",module,Magento_Backend
 "Revenue","Revenue",module,Magento_Backend
-"Tax","Tax",module,Magento_Backend
-"Shipping","Shipping",module,Magento_Backend
-"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Backend
+"Tax","Impostos",module,Magento_Backend
+"Shipping","Enviament",module,Magento_Backend
+"Images (.gif, .jpg, .png)","Imatges (.gif, .jpg, .png)",module,Magento_Backend
 "Media (.avi, .flv, .swf)","Media (.avi, .flv, .swf)",module,Magento_Backend
-"All Files","All Files",module,Magento_Backend
+"All Files","Tots els fitxers",module,Magento_Backend
 "Reset to Default","Reset to Default",module,Magento_Backend
 "All Store Views","All Store Views",module,Magento_Backend
-"What is this?","What is this?",module,Magento_Backend
+"What is this?","Què és això?",module,Magento_Backend
 "Save Account","Save Account",module,Magento_Backend
-"My Account","My Account",module,Magento_Backend
+"My Account","El meu compte",module,Magento_Backend
 "Account Information","Account Information",module,Magento_Backend
-"User Name","User Name",module,Magento_Backend
-"First Name","First Name",module,Magento_Backend
-"Last Name","Last Name",module,Magento_Backend
-"Email","Email",module,Magento_Backend
-"User Email","User Email",module,Magento_Backend
-"New Password","New Password",module,Magento_Backend
-"Password Confirmation","Password Confirmation",module,Magento_Backend
-"Interface Locale","Interface Locale",module,Magento_Backend
+"User Name","Nom d'usuari",module,Magento_Backend
+"First Name","Nom",module,Magento_Backend
+"Last Name","Cognoms",module,Magento_Backend
+"Email","Correu electrònic",module,Magento_Backend
+"User Email","Correu electrònic de l'usuari",module,Magento_Backend
+"New Password","Nova Contrasenya",module,Magento_Backend
+"Password Confirmation","Confirmació de la contrasenya",module,Magento_Backend
+"Interface Locale","Configuració d'interfície",module,Magento_Backend
 "Current User Identity Verification","Current User Identity Verification",module,Magento_Backend
-"Your Password","Your Password",module,Magento_Backend
-"Save Cache Settings","Save Cache Settings",module,Magento_Backend
+"Your Password","La teva contrasenya",module,Magento_Backend
+"Save Cache Settings","Desar la configuració de la caché",module,Magento_Backend
 "Catalog Rewrites","Catalog Rewrites",module,Magento_Backend
-"Refresh","Refresh",module,Magento_Backend
+"Refresh","Refrescar",module,Magento_Backend
 "Images Cache","Images Cache",module,Magento_Backend
-"Clear","Clear",module,Magento_Backend
+"Clear","Netejar",module,Magento_Backend
 "Search Index","Search Index",module,Magento_Backend
-"Rebuild","Rebuild",module,Magento_Backend
+"Rebuild","Reconstruïr",module,Magento_Backend
 "Inventory Stock Status","Inventory Stock Status",module,Magento_Backend
 "Rebuild Catalog Index","Rebuild Catalog Index",module,Magento_Backend
 "Rebuild Flat Catalog Category","Rebuild Flat Catalog Category",module,Magento_Backend
