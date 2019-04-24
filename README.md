@@ -117,11 +117,13 @@ To download and install Catalan pack manually, you have to access to your server
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ca_es/ca_ES.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/ca_es/`
 
-See this screenshot
+See this screenshot:
 
 ![Catalan pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **ca_es**
 
 #### Step 2: Flush cache
 
