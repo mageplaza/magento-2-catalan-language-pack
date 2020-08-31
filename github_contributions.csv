@@ -1,1 +1,640 @@
-Mageplaza,Mageplaza
+Mageplaza,Mageplaza,,
+"Sign Out","Tanca sessió",module,Magento_Customer
+"Sign In","Inicieu la sessió",module,Magento_Customer
+"You are subscribed to our newsletter.","Esteu subscrit al nostre butlletí.",module,Magento_Customer
+"You aren't subscribed to our newsletter.","No esteu subscrit a la nostra newsletter.",module,Magento_Customer
+"You have not set a default shipping address.","No heu definit una adreça d’enviament predeterminada.",module,Magento_Customer
+"You have not set a default billing address.","No heu definit una adreça de facturació predeterminada.",module,Magento_Customer
+"Address Book","Llibreta d'adreces",module,Magento_Customer
+"Edit Address","Edita l'adreça",module,Magento_Customer
+"Add New Address","Afegeix una nova adreça",module,Magento_Customer
+"region","regió",module,Magento_Customer
+"Create Order","Crea comanda",module,Magento_Customer
+"Save Customer","Desa el client",module,Magento_Customer
+"Delete Customer","Suprimeix el client",module,Magento_Customer
+"Reset Password","Restablir la contrasenya",module,Magento_Customer
+"Are you sure you want to revoke the customer's tokens?","Esteu segur que voleu revocar les fitxes del client?",module,Magento_Customer
+"Force Sign-In","Força l’inici de sessió",module,Magento_Customer
+"New Customer","Nou client",module,Magento_Customer
+"Save and Continue Edit","Desa i continua editant",module,Magento_Customer
+"Back","esquena",module,Magento_Customer
+"Please select","Seleccioneu",module,Magento_Customer
+"Reset","Restablir",module,Magento_Customer
+"ID","ID",module,Magento_Customer
+"Product","Producte",module,Magento_Customer
+"SKU","SKU",module,Magento_Customer
+"Quantity","Quantitat",module,Magento_Customer
+"Price","Preu",module,Magento_Customer
+"Total","Total",module,Magento_Customer
+"Action","Acció",module,Magento_Customer
+"Configure","Configurar",module,Magento_Customer
+"Delete","Suprimeix",module,Magento_Customer
+"Shopping Cart from %1","Cistella de la compra des de %1",module,Magento_Customer
+"Newsletter","Butlletí",module,Magento_Customer
+"Newsletter Information","Informació del butlletí",module,Magento_Customer
+"Subscribed to Newsletter","Subscrit a Newsletter",module,Magento_Customer
+"Last Date Subscribed","Última data de subscripció",module,Magento_Customer
+"Last Date Unsubscribed","Última data No donada de baixa",module,Magento_Customer
+"No Newsletter Found","No s'ha trobat cap butlletí",module,Magento_Customer
+"Start date","Data d'inici",module,Magento_Customer
+"End Date","Data de finalització",module,Magento_Customer
+"Receive Date","Data de recepció",module,Magento_Customer
+"Subject","Assignatura",module,Magento_Customer
+"Status","Estat",module,Magento_Customer
+"Sent","Enviat",module,Magento_Customer
+"Cancel","Cancel · lar",module,Magento_Customer
+"Not Sent","No enviat",module,Magento_Customer
+"Sending","S'està enviant",module,Magento_Customer
+"Paused","En pausa",module,Magento_Customer
+"View","Veure",module,Magento_Customer
+"Unknown","Desconegut",module,Magento_Customer
+"Order","Comanda",module,Magento_Customer
+"Purchased","Comprat",module,Magento_Customer
+"Bill-to Name","Nom de facturació",module,Magento_Customer
+"Ship-to Name","Nom enviat a",module,Magento_Customer
+"Order Total","Ordre total",module,Magento_Customer
+"Purchase Point","Punt de compra",module,Magento_Customer
+"Customer View","Vista del client",module,Magento_Customer
+"There are no items in customer's shopping cart.","No hi ha articles a la cistella de la compra del client.",module,Magento_Customer
+"Qty","Quantitat",module,Magento_Customer
+"Confirmed","Confirmat",module,Magento_Customer
+"Confirmation Required","Confirmació obligatòria",module,Magento_Customer
+"Confirmation Not Required","No es requereix confirmació",module,Magento_Customer
+"Indeterminate","Indeterminat",module,Magento_Customer
+"The customer does not have default billing address.","El client no té una adreça de facturació predeterminada.",module,Magento_Customer
+"Offline","Fora de línia",module,Magento_Customer
+"Online","En línia",module,Magento_Customer
+"Never","Mai",module,Magento_Customer
+"Unlocked","Desbloquejat",module,Magento_Customer
+"Locked","Bloquejat",module,Magento_Customer
+"Deleted Stores","Botigues suprimides",module,Magento_Customer
+"Add Locale","Afegeix Locale",module,Magento_Customer
+"Add Date","Afegeix data",module,Magento_Customer
+"Days in Wish List","Dies a la llista de desitjos",module,Magento_Customer
+"Unlock","Desbloqueja",module,Magento_Customer
+"No","No",module,Magento_Customer
+"Yes","Sí",module,Magento_Customer
+"Delete File","Esborrar Arxiu",module,Magento_Customer
+"Download","descarregar",module,Magento_Customer
+"Delete Image","Suprimeix imatge",module,Magento_Customer
+"View Full Size","Veure la mida completa",module,Magento_Customer
+"All countries","Tots els països",module,Magento_Customer
+"Customer Groups","Grups de clients",module,Magento_Customer
+"Add New Customer Group","Afegeix grup de clients nous",module,Magento_Customer
+"Save Customer Group","Desa el grup de clients",module,Magento_Customer
+"Delete Customer Group","Suprimeix el grup de clients",module,Magento_Customer
+"New Customer Group","Nou grup de clients",module,Magento_Customer
+"Edit Customer Group %1","Edita el grup de clients %1",module,Magento_Customer
+"Group Information","Informació del grup",module,Magento_Customer
+"Group Name","Nom del grup",module,Magento_Customer
+"Maximum length must be less then %1 characters.","La longitud màxima ha de ser inferior a %1 caràcters.",module,Magento_Customer
+"Tax Class","Classe fiscal",module,Magento_Customer
+"The customer is now assigned to Customer Group %s.","El client ara està assignat al grup de clients %s.",module,Magento_Customer
+"Would you like to change the Customer Group for this order?","Voleu canviar el grup de clients per aquesta comanda?",module,Magento_Customer
+"The VAT ID is valid.","L’ID d’IVA és vàlid.",module,Magento_Customer
+"The VAT ID entered (%s) is not a valid VAT ID.","L’identificador d’IVA introduït (%s) no és un identificador d’IVA vàlid.",module,Magento_Customer
+"The VAT ID is valid. The current Customer Group will be used.","L’ID d’IVA és vàlid. S'utilitzarà el Grup de Clients actual.",module,Magento_Customer
+"The VAT ID is valid but no Customer Group is assigned for it.","L'identificador d'IVA és vàlid, però no hi ha assignat cap grup de clients.",module,Magento_Customer
+"Based on the VAT ID, the customer belongs to the Customer Group %s.","A partir de l’identificador d’IVA, el client pertany al grup de clients %s.",module,Magento_Customer
+"Something went wrong while validating the VAT ID.","Alguna cosa va fallar mentre es va validar l'identificador de l'IVA.",module,Magento_Customer
+"The customer would belong to Customer Group %s.","El client pertanyria al grup de clients %s.",module,Magento_Customer
+"There was an error detecting Customer Group.","S'ha produït un error en detectar el grup de clients.",module,Magento_Customer
+"Validate VAT Number","Validar el número d’IVA",module,Magento_Customer
+"Customer Login","Inici de sessió del client",module,Magento_Customer
+"Create New Customer Account","Creeu un compte de client nou",module,Magento_Customer
+"Date of Birth","Data de naixement",module,Magento_Customer
+"Bad request.","Mala sol·licitud",module,Magento_Customer
+"This confirmation key is invalid or has expired.","Aquesta clau de confirmació no és vàlida o ha caducat.",module,Magento_Customer
+"There was an error confirming the account","S'ha produït un error en confirmar el compte",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=%1>here</a> to enter your shipping address for proper VAT calculation.","Si sou un client amb IVA registrat, feu clic a <a href=%1> aquí </a> per introduir la vostra adreça d’enviament per calcular l’IVA correctament.",module,Magento_Customer
+"If you are a registered VAT customer, please click <a href=%1>here</a> to enter your billing address for proper VAT calculation.","Si sou un client amb IVA registrat, feu clic a <a href=%1> aquí </a> per introduir la vostra adreça de facturació per calcular l'IVA correctament.",module,Magento_Customer
+"Thank you for registering with %1.","Gràcies per registrar-vos amb %1.",module,Magento_Customer
+"Please check your email for confirmation key.","Comproveu la vostra adreça de correu electrònic per obtenir la clau de confirmació.",module,Magento_Customer
+"This email does not require confirmation.","Aquest correu electrònic no requereix confirmació.",module,Magento_Customer
+"Wrong email.","Correu electrònic erroni.",module,Magento_Customer
+"Your password reset link has expired.","L’enllaç de restabliment de contrasenya ha caducat.",module,Magento_Customer
+"You must confirm your account. Please check your email for the confirmation link or <a href=%1>click here</a> for a new link.","Heu de confirmar el vostre compte. Comproveu el vostre correu electrònic per a l’enllaç de confirmació o <a href=%1> feu clic aquí </a> per obtenir un enllaç nou.",module,Magento_Customer
+"There is already an account with this email address. If you are sure that it is your email address, <a href=%1>click here</a> to get your password and access your account.","Ja hi ha un compte amb aquesta adreça de correu electrònic. Si esteu segurs que es tracta de la vostra adreça de correu electrònic, <a href=%1> feu clic aquí </a> per obtenir la vostra contrasenya i accedir al vostre compte.",module,Magento_Customer
+"We can't save the customer.","No podem estalviar el client.",module,Magento_Customer
+"Please make sure your passwords match.","Assegureu-vos que les vostres contrasenyes coincideixin.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=%1>click here</a> to enter your shipping address for proper VAT calculation.","Si sou un client amb IVA registrat, <a href=%1> feu clic aquí </a> per introduir la vostra adreça d’enviament per calcular l’IVA correctament.",module,Magento_Customer
+"If you are a registered VAT customer, please <a href=%1>click here</a> to enter your billing address for proper VAT calculation.","Si sou un client amb IVA registrat, <a href=%1> feu clic aquí </a> per introduir la vostra adreça de facturació per calcular l'IVA correctament.",module,Magento_Customer
+"Account Information","Informació del compte",module,Magento_Customer
+"You saved the account information.","Heu desat la informació del compte.",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","No heu iniciat la sessió correctament o el vostre compte està desactivat temporalment.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","La confirmació de la contrasenya no coincideix amb la contrasenya introduïda.",module,Magento_Customer
+"The password doesn't match this account.","La contrasenya no coincideix amb aquest compte.",module,Magento_Customer
+"Please correct the email address.","Corregiu l’adreça de correu electrònic.",module,Magento_Customer
+"We're unable to send the password reset email.","No podem enviar el correu electrònic de restabliment de la contrasenya.",module,Magento_Customer
+"Please enter your email.","Introduïu el vostre correu electrònic.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Si hi ha un compte associat a %1, rebrà un correu electrònic amb un enllaç per restablir la vostra contrasenya.",module,Magento_Customer
+"My Account","El meu compte",module,Magento_Customer
+"This account is not confirmed. <a href=%1>Click here</a> to resend confirmation email.","Aquest compte no està confirmat. <a href=%1> Feu clic aquí </a> per reenviar el correu electrònic de confirmació.",module,Magento_Customer
+"An unspecified error occurred. Please contact us for assistance.","S'ha produït un error no especificat. Si us plau, poseu-vos en contacte amb nosaltres per obtenir ajuda.",module,Magento_Customer
+"A login and a password are required.","Cal un inici de sessió i una contrasenya.",module,Magento_Customer
+"New Password and Confirm New Password values didn't match.","Nova contrasenya i confirmació dels valors de la contrasenya nova no coincideixen.",module,Magento_Customer
+"Please enter a new password.","Introduïu una nova contrasenya.",module,Magento_Customer
+"You updated your password.","Heu actualitzat la vostra contrasenya.",module,Magento_Customer
+"Something went wrong while saving the new password.","Alguna cosa va funcionar malament desant la nova contrasenya.",module,Magento_Customer
+"You deleted the address.","Heu suprimit l'adreça.",module,Magento_Customer
+"We can't delete the address right now.","No podem suprimir l’adreça ara mateix.",module,Magento_Customer
+"You saved the address.","Heu desat l'adreça.",module,Magento_Customer
+"We can't save the address.","No podem desar l'adreça.",module,Magento_Customer
+"No customer ID defined.","No s’ha definit l’identificador de client.",module,Magento_Customer
+"Please correct the quote items and try again.","Corregiu els articles de pressupost i proveu-ho de nou.",module,Magento_Customer
+"You have revoked the customer's tokens.","Heu revocat les fitxes del client.",module,Magento_Customer
+"We can't find a customer to revoke.","No podem trobar un client que revogui.",module,Magento_Customer
+"Something went wrong while saving file.","Alguna cosa va funcionar malament desant el fitxer.",module,Magento_Customer
+"You deleted the customer group.","Heu suprimit el grup de clients.",module,Magento_Customer
+"The customer group no longer exists.","El grup de clients ja no existeix.",module,Magento_Customer
+"Customers","Clients",module,Magento_Customer
+"New Group","Grup nou",module,Magento_Customer
+"New Customer Groups","Grups de clients nous",module,Magento_Customer
+"Edit Group","Grup d'edicions",module,Magento_Customer
+"Edit Customer Groups","Edita grups de clients",module,Magento_Customer
+"You saved the customer group.","Heu desat el grup de clients.",module,Magento_Customer
+"Please select customer(s).","Seleccioneu el client.",module,Magento_Customer
+"Customer could not be deleted.","El client no s'ha pogut suprimir.",module,Magento_Customer
+"You deleted the customer.","Heu suprimit el client.",module,Magento_Customer
+"Something went wrong while editing the customer.","Alguna cosa va funcionar malament durant l'edició del client.",module,Magento_Customer
+"Manage Customers","Gestiona els clients",module,Magento_Customer
+"Please correct the data sent.","Corregiu les dades enviades.",module,Magento_Customer
+"A total of %1 record(s) were updated.","S'han actualitzat un total de %1 registres.",module,Magento_Customer
+"A total of %1 record(s) were deleted.","S'han suprimit un total de %1 registres.",module,Magento_Customer
+"The customer will receive an email with a link to reset password.","El client rebrà un correu electrònic amb un enllaç per restablir la contrasenya.",module,Magento_Customer
+"Something went wrong while resetting customer password.","S'ha produït un error al restablir la contrasenya del client.",module,Magento_Customer
+"You saved the customer.","Heu desat el client.",module,Magento_Customer
+"Something went wrong while saving the customer.","Alguna cosa va fallar mentre es va salvar el client.",module,Magento_Customer
+"Page not found.","Pàgina no trobada.",module,Magento_Customer
+"Customer has been unlocked successfully.","El client s’ha desbloquejat correctament.",module,Magento_Customer
+"Online Customers","Clients en línia",module,Magento_Customer
+"Customers Now Online","Clients ara en línia",module,Magento_Customer
+"Please define Wish List item ID.","Definiu l’ID d’element de la llista de desitjos.",module,Magento_Customer
+"Please load Wish List item.","Carregueu l'element de la llista de desitjos.",module,Magento_Customer
+"Login successful.","La sessió iniciada correctament.",module,Magento_Customer
+"Invalid login or password.","Inici de sessió o contrasenya no vàlids.",module,Magento_Customer
+"%1 section source is not supported","La font de la secció %1 no és compatible",module,Magento_Customer
+"%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 no s’estén\Magento\Client\ClientData\SectionSourceInterface",module,Magento_Customer
+"No confirmation needed.","No cal confirmar.",module,Magento_Customer
+"Account already active","El compte ja està actiu",module,Magento_Customer
+"Invalid confirmation token","El testimoni de confirmació no és vàlid",module,Magento_Customer
+"The account is locked.","El compte està bloquejat.",module,Magento_Customer
+"This account is not confirmed.","Aquest compte no està confirmat.",module,Magento_Customer
+"Invalid value of %value provided for the %fieldName field. Possible values: %template1 or %template2.","El valor no vàlid del %valor es proporciona al camp%campNom. Valors possibles:%template1 o%template2.",module,Magento_Customer
+"Please enter a password with at most %1 characters.","Introduïu una contrasenya amb un màxim de%1 caràcters.",module,Magento_Customer
+"Please enter a password with at least %1 characters.","Introduïu una contrasenya amb almenys%1 caràcters.",module,Magento_Customer
+"The password can't begin or end with a space.","La contrasenya no pot començar ni finalitzar amb un espai.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","El mínim de diferents classes de caràcters en contrasenya és%1. Classes de personatges: Minúscula, Majúscula, Cifres, Personatges especials.",module,Magento_Customer
+"Password cannot be the same as email address.","La contrasenya no pot ser la mateixa que l’adreça de correu electrònic.",module,Magento_Customer
+"This customer already exists in this store.","Aquest client ja existeix en aquesta botiga.",module,Magento_Customer
+"A customer with the same email already exists in an associated website.","Ja existeix un client amb el mateix correu electrònic en un lloc web associat.",module,Magento_Customer
+"Invalid value of %value provided for the %fieldName field.","El valor no vàlid del %valor es proporciona al camp%campNom.",module,Magento_Customer
+"%fieldName is a required field.","%fieldName és un camp obligatori.",module,Magento_Customer
+"Reset password token mismatch.","Restableix la desconnexió del testimoni de la contrasenya.",module,Magento_Customer
+"Reset password token expired.","Restablir el testimoni de la contrasenya caducat.",module,Magento_Customer
+"Please correct the transactional account email type.","Corregiu el tipus de correu electrònic del compte transaccional.",module,Magento_Customer
+"%1 is a required value.","%1 és un valor obligatori.",module,Magento_Customer
+"Global","Global",module,Magento_Customer
+"Per Website","Per lloc web",module,Magento_Customer
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","No podem compartir comptes de client globalment quan els comptes comparteixen adreces de correu electrònic idèntiques en més d’un lloc web.",module,Magento_Customer
+"Billing Address","Adreça de facturació",module,Magento_Customer
+"Shipping Address","Adreça d'enviament",module,Magento_Customer
+"-- Please Select --","- Seleccioneu -",module,Magento_Customer
+"Please enter a valid password reset token.","Introduïu un testimoni de restabliment de contrasenya vàlid.",module,Magento_Customer
+"The password can not begin or end with a space.","La contrasenya no pot començar ni finalitzar amb un espai.",module,Magento_Customer
+"Admin","Administrador",module,Magento_Customer
+"ALL GROUPS","TOTS ELS GRUPS",module,Magento_Customer
+"No such entity with %fieldName=%fieldValue, %field2Name=%field2Value","No hi ha entitat amb%fieldName =%fieldValue,%field2Name =%field2Value",module,Magento_Customer
+"File can not be saved to the destination folder.","El fitxer no es pot desar a la carpeta de destinació.",module,Magento_Customer
+"Unable to create directory %1.","No es pot crear el directori%1.",module,Magento_Customer
+"Destination folder is not writable or does not exists.","La carpeta de destinació no es pot escriure ni existeix.",module,Magento_Customer
+"Something went wrong while saving the file.","Alguna cosa no va funcionar malament desant el fitxer.",module,Magento_Customer
+"Attribute object is undefined","L’objecte d’atribut no està definit",module,Magento_Customer
+"%1 invalid type entered.","S'ha introduït un tipus de vàlid %1.",module,Magento_Customer
+"%1 contains non-alphabetic or non-numeric characters.","%1 conté caràcters no alfabètics o no numèrics.",module,Magento_Customer
+"%1 is an empty string.","%1 és una cadena buida.",module,Magento_Customer
+"%1 contains non-numeric characters.","%1 conté caràcters no numèrics.",module,Magento_Customer
+"%1 contains non-alphabetic characters.","%1 conté caràcters no alfabètics.",module,Magento_Customer
+"%1 is not a valid email address.","%1 no és una adreça de correu electrònic vàlida.",module,Magento_Customer
+"%1 is not a valid hostname.","%1 no és un nom d'amfitrió vàlid.",module,Magento_Customer
+"%1 uses too many characters.","%1 utilitza massa caràcters.",module,Magento_Customer
+"'%value%' looks like an IP address, which is not an acceptable format.","%value%' sembla una adreça IP, que no és un format acceptable.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but contains a dash in an invalid position.","%value%' sembla un nom d'amfitrió DNS, però conté un guió en una posició no vàlida.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match it against the hostname schema for TLD '%tld%'.","%value%' sembla un nom d'amfitrió DNS, però no podem coincidir amb l'esquema de hostname per a TLD'%tld%'.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but cannot extract TLD part.","%value%' sembla un nom d'amfitrió DNS, però no pot extreure'n la part TLD.",module,Magento_Customer
+"%value%' does not look like a valid local network name.","%value%' no sembla un nom de xarxa local vàlid.",module,Magento_Customer
+"'%value%' looks like a local network name, which is not an acceptable format.","%value%' sembla un nom de xarxa local, que no és un format acceptable.",module,Magento_Customer
+"'%value%' appears to be a DNS hostname, but the given punycode notation cannot be decoded.","%value%' sembla un nom d'amfitrió DNS, però no es pot descodificar la notació indicada amb codi de puny.",module,Magento_Customer
+"%1 is not a valid URL.","%1 no és un URL vàlid.",module,Magento_Customer
+"%1 is not a valid date.","%1 no és una data vàlida.",module,Magento_Customer
+"%1 does not fit the entered date format.","%1 no s'adapta al format de data introduït.",module,Magento_Customer
+"Please enter a valid date between %1 and %2 at %3.","Introduïu una data vàlida entre %1 i %2 a %3.",module,Magento_Customer
+"Please enter a valid date equal to or greater than %1 at %2.","Introduïu una data vàlida igual o superior a %1 a %2.",module,Magento_Customer
+"Please enter a valid date less than or equal to %1 at %2.","Introduïu una data vàlida menor o igual a %1 a %2.",module,Magento_Customer
+"%1 is not a valid file extension.","%1 no és una extensió de fitxer vàlida.",module,Magento_Customer
+"%1 is not a valid file.","%1 no és un fitxer vàlid.",module,Magento_Customer
+"%1 exceeds the allowed file size.","%1 supera la mida de fitxer permesa.",module,Magento_Customer
+"%1 is not a valid image format.","%1 no és un format d'imatge vàlid.",module,Magento_Customer
+"%1 width exceeds allowed value of %2 px.","L'amplada %1 supera el valor permès de %2 px.",module,Magento_Customer
+"%1 height exceeds allowed value of %2 px.","L'alçada %1 supera el valor permès de %2 px.",module,Magento_Customer
+"%1 length must be equal or greater than %2 characters.","La longitud %1 ha de ser igual o superior a %2 caràcters.",module,Magento_Customer
+"%1 length must be equal or less than %2 characters.","La longitud %1 ha de ser igual o inferior a %2 caràcters.",module,Magento_Customer
+"label","etiqueta",module,Magento_Customer
+"Please enter a customer email.","Introduïu un correu electrònic del client.",module,Magento_Customer
+"A customer website ID must be specified when using the website scope.","S'ha d'especificar un identificador de lloc web de client quan s'utilitzi l'abast del lloc web.",module,Magento_Customer
+"Customer Group","Grup de clients",module,Magento_Customer
+"You can't delete group %1.","No podeu suprimir el grup %1.",module,Magento_Customer
+"Customer Group already exists.","Grup de clients ja existeix.",module,Magento_Customer
+"Cannot delete group.","No es pot eliminar el grup.",module,Magento_Customer
+"Error during VAT Number verification.","Error durant la verificació del número d’IVA.",module,Magento_Customer
+"PHP SOAP extension is required.","És necessària una extensió PHAP SOAP.",module,Magento_Customer
+"VAT Number is valid.","El número d’IVA és vàlid.",module,Magento_Customer
+"Please enter a valid VAT number.","Introduïu un número d’IVA vàlid.",module,Magento_Customer
+"Your VAT ID was successfully validated.","La vostra identificació d’IVA s’ha validat correctament.",module,Magento_Customer
+"You will be charged tax.","Se us cobrarà impost.",module,Magento_Customer
+"You will not be charged tax.","No se li cobrarà impost.",module,Magento_Customer
+"The VAT ID entered (%1) is not a valid VAT ID.","L’identificador d’IVA introduït (%1) no és un identificador d’IVA vàlid.",module,Magento_Customer
+"Your Tax ID cannot be validated.","No es pot validar el vostre identificador fiscal.",module,Magento_Customer
+"If you believe this is an error, please contact us at %1","Si creieu que es tracta d’un error, poseu-vos en contacte amb nosaltres a %1",module,Magento_Customer
+"No such entity with %fieldName=%fieldValue","No hi ha entitat amb%fieldName =%fieldValue",module,Magento_Customer
+"Male","Mascle",module,Magento_Customer
+"Female","Femení",module,Magento_Customer
+"Not Specified","Sense especificar",module,Magento_Customer
+"Thank you for registering with","Gràcies per registrar-se a",module,Magento_Customer
+"enter your billing address for proper VAT calculation","introduïu la vostra adreça de facturació per calcular l'IVA correctament",module,Magento_Customer
+"enter your shipping address for proper VAT calculation","introduïu la vostra adreça d’enviament per calcular correctament l’IVA",module,Magento_Customer
+"Please enter new password.","Introduïu la contrasenya nova.",module,Magento_Customer
+"message","missatge",module,Magento_Customer
+"NoSuchEntityException","NoSuchEntityException",module,Magento_Customer
+"Exception","Excepció",module,Magento_Customer
+"InputException.","InputException.",module,Magento_Customer
+"InputException","InputException",module,Magento_Customer
+"Exception message","Missatge d’excepció",module,Magento_Customer
+"Validator Exception","Excepció de validador",module,Magento_Customer
+"Localized Exception","Excepció localitzada",module,Magento_Customer
+"some error","algun error",module,Magento_Customer
+"frontend_label","frontend_label",module,Magento_Customer
+"NOT LOGGED IN","NO ESTÀS AUTENTICAT",module,Magento_Customer
+"Please enter the state/province.","Introduïu l'estat / província.",module,Magento_Customer
+"region is a required field.","La regió és un camp obligatori.",module,Magento_Customer
+"regionId is a required field.","regionId és un camp obligatori.",module,Magento_Customer
+"Label","Etiqueta",module,Magento_Customer
+"Select...","Selecciona ...",module,Magento_Customer
+"Edit","Edita",module,Magento_Customer
+"Visitor","Visitant",module,Magento_Customer
+"Customer","Client",module,Magento_Customer
+"No item specified.","No s’ha especificat cap element.",module,Magento_Customer
+"Are you sure you want to remove this item?","Esteu segur que voleu eliminar aquest element?",module,Magento_Customer
+"Personal Information","Informació personal",module,Magento_Customer
+"Last Logged In:","Últim accés:",module,Magento_Customer
+"Last Logged In (%1):","Últim accés (%1):",module,Magento_Customer
+"Account Lock:","Bloqueig del compte:",module,Magento_Customer
+"Confirmed email:","Correu electrònic confirmat:",module,Magento_Customer
+"Account Created:","Compte creat:",module,Magento_Customer
+"Account Created on (%1):","Compte creat el (%1):",module,Magento_Customer
+"Account Created in:","Compte creat a:",module,Magento_Customer
+"Customer Group:","Grup de clients:",module,Magento_Customer
+"Default Billing Address","Adreça de facturació predeterminada",module,Magento_Customer
+"Sales Statistics","Estadístiques de vendes",module,Magento_Customer
+"Web Site","Lloc web",module,Magento_Customer
+"Store","Botiga",module,Magento_Customer
+"Store View","Vista de botiga",module,Magento_Customer
+"Lifetime Sales","Vendes a tota la vida",module,Magento_Customer
+"Average Sale","Venda mitjana",module,Magento_Customer
+"All Store Views","Totes les visualitzacions de la botiga",module,Magento_Customer
+"Change","Canviar",module,Magento_Customer
+"Manage Addresses","Gestiona les adreces",module,Magento_Customer
+"Default Shipping Address","Adreça d'enviament per defecte",module,Magento_Customer
+"Contact Information","Informació de contacte",module,Magento_Customer
+"Change Password","Canvia la contrasenya",module,Magento_Customer
+"Newsletters","Butlletins",module,Magento_Customer
+"You are subscribed to General Subscription.","Esteu subscrit a Subscripció general.",module,Magento_Customer
+"or","o",module,Magento_Customer
+"Default Addresses","Adreces predeterminades",module,Magento_Customer
+"Change Billing Address","Canvieu l'adreça de facturació",module,Magento_Customer
+"You have no default billing address in your address book.","No teniu cap adreça de facturació predeterminada a la vostra llibreta d’adreces.",module,Magento_Customer
+"Change Shipping Address","Canvieu l'adreça d'enviament",module,Magento_Customer
+"You have no default shipping address in your address book.","No teniu cap adreça d’enviament predeterminada a la vostra llibreta d’adreces.",module,Magento_Customer
+"Additional Address Entries","Entrades d’adreces addicionals",module,Magento_Customer
+"Delete Address","Suprimeix l'adreça",module,Magento_Customer
+"You have no other address entries in your address book.","No teniu cap altra adreça a la vostra llibreta d'adreces.",module,Magento_Customer
+"* Required Fields","* Els camps obligatoris",module,Magento_Customer
+"Address","adreça",module,Magento_Customer
+"Street Address","Adreça",module,Magento_Customer
+"Street Address %1","Adreça %1",module,Magento_Customer
+"VAT Number","Número d’IVA",module,Magento_Customer
+"City","ciutat",module,Magento_Customer
+"State/Province","Estat / Província",module,Magento_Customer
+"Please select a region, state or province.","Seleccioneu una regió, estat o província.",module,Magento_Customer
+"Zip/Postal Code","Codi postal / postal",module,Magento_Customer
+"Country","País",module,Magento_Customer
+"It's a default billing address.","És una adreça de facturació predeterminada.",module,Magento_Customer
+"Use as my default billing address","Feu servir com a adreça de facturació predeterminada",module,Magento_Customer
+"It's a default shipping address.","És una adreça d’enviament predeterminada.",module,Magento_Customer
+"Use as my default shipping address","Utilitzeu-lo com a adreça d’enviament predeterminada",module,Magento_Customer
+"Save Address","Desa l'adreça",module,Magento_Customer
+"Go back","Torna",module,Magento_Customer
+"Please enter your email below and we will send you the confirmation link.","Introduïu el vostre correu electrònic a continuació i us enviarem l’enllaç de confirmació.",module,Magento_Customer
+"Email","Correu electrònic",module,Magento_Customer
+"Send confirmation link","Envia un enllaç de confirmació",module,Magento_Customer
+"Back to Sign In","Torna a iniciar la sessió",module,Magento_Customer
+"Change Email","Canviar e-mail",module,Magento_Customer
+"Change Email and Password","Canvia el correu electrònic i la contrasenya",module,Magento_Customer
+"Current Password","Contrasenya actual",module,Magento_Customer
+"New Password","nova contrasenya",module,Magento_Customer
+"Password Strength","Solidesa de la contrasenya",module,Magento_Customer
+"No Password","Sense contrasenya",module,Magento_Customer
+"Confirm New Password","Confirmar nova contrasenya",module,Magento_Customer
+"Save","Desa",module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Introduïu la vostra adreça de correu electrònic a continuació per rebre un enllaç de restabliment de contrasenya.",module,Magento_Customer
+"Reset My Password","Restableix la meva contrasenya",module,Magento_Customer
+"Registered Customers","Clients registrats",module,Magento_Customer
+"If you have an account, sign in with your email address.","Si teniu un compte, inicieu la sessió amb la vostra adreça de correu electrònic.",module,Magento_Customer
+"Password","Contrasenya",module,Magento_Customer
+"Forgot Your Password?","Has oblidat la teva contrasenya?",module,Magento_Customer
+"Subscription option","Opció de subscripció",module,Magento_Customer
+"General Subscription","Subscripció general",module,Magento_Customer
+"Sign Up for Newsletter","Inscriure's al butlletí",module,Magento_Customer
+"Address Information","Informació de l'adreça",module,Magento_Customer
+"Sign-in Information","Informació d'inici de sessió",module,Magento_Customer
+"Confirm Password","Confirma la contrassenya",module,Magento_Customer
+"Create an Account","Crear un compte",module,Magento_Customer
+"Set a New Password","Definiu una nova contrasenya",module,Magento_Customer
+"You have signed out and will go to our homepage in 5 seconds.","Heu tancat la sessió i anireu a la pàgina principal en 5 segons.",module,Magento_Customer
+"New Customers","Nous clients",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","La creació d’un compte té molts avantatges: fes una ullada més ràpida, manté més d’una adreça, fa el seguiment de les comandes i molt més.",module,Magento_Customer
+"Company","Empresa",module,Magento_Customer
+"Fax","Fax",module,Magento_Customer
+"Gender","Gènere",module,Magento_Customer
+"Name","Nom",module,Magento_Customer
+"Tax/VAT number","Número d’impostos / IVA",module,Magento_Customer
+"Phone Number","Número de telèfon",module,Magento_Customer
+"Welcome to %store_name","Benvingut a %store_name",module,Magento_Customer
+"%name,","%nom,",module,Magento_Customer
+"Welcome to %store_name.","Benvingut a%store_name.",module,Magento_Customer
+"To sign in to our site, use these credentials during checkout or on the <a href=%customer_url>My Account</a> page:","Per iniciar la sessió al nostre lloc, utilitzeu aquestes credencials durant la sortida o a la pàgina <a href=%customer_url> El meu compte </a>:",module,Magento_Customer
+"Email:","Correu electrònic:",module,Magento_Customer
+"Password:","Contrasenya:",module,Magento_Customer
+"Password you set when creating account","Contrasenya que vau definir en crear el compte",module,Magento_Customer
+"Forgot your account password? Click <a href=%reset_url>here</a> to reset it.","Heu oblidat la contrasenya del vostre compte? Feu clic a <a href=%reset_url> aquí </a> per restablir-la.",module,Magento_Customer
+"When you sign in to your account, you will be able to:","Quan inicieu la sessió al vostre compte, podreu:",module,Magento_Customer
+"Proceed through checkout faster","Realitzeu la checkout més ràpidament",module,Magento_Customer
+"Check the status of orders","Comproveu l'estat de les comandes",module,Magento_Customer
+"View past orders","Consulteu les comandes passades",module,Magento_Customer
+"Store alternative addresses (for shipping to multiple family members and friends)","Emmagatzemi adreces alternatives (per enviar-les a diversos membres de la família i amics)",module,Magento_Customer
+"Please confirm your %store_name account","Confirmeu el vostre compte de%store_name",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Per poder iniciar la sessió, heu de confirmar el vostre correu electrònic de%client_email (l'enllaç només és vàlid una vegada):",module,Magento_Customer
+"Confirm Your Account","Confirmeu el vostre compte",module,Magento_Customer
+"Thank you for confirming your %store_name account.","Gràcies per confirmar el vostre compte de %store_name.",module,Magento_Customer
+"To sign in to our site and set a password, click on the <a href=%create_password_url>link</a>:","Per iniciar la sessió al nostre lloc i configurar una contrasenya, feu clic al <a href=%create_password_url> enllaç </a>:",module,Magento_Customer
+"Your %store_name email has been changed","El vostre correu electrònic de%store_name s'ha canviat",module,Magento_Customer
+"Hello,","Hola,",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email.","Hem rebut una sol·licitud per canviar la informació següent associada amb el vostre compte a%store_name: correu electrònic.",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=mailto:%store_email>%store_email</a>","Si no heu autoritzat aquesta acció, contacteu-nos immediatament a <a href=mailto:%store_email>%store_email </a>",module,Magento_Customer
+"or call us at <a href=tel:%store_phone>%store_phone</a>","o truqueu-nos a <a href=tel:%store_phone>%store_phone </a>",module,Magento_Customer
+"Thanks,<br>%store_name","Gràcies, <br>%store_name",module,Magento_Customer
+"Your %store_name email and password has been changed","S'ha canviat el vostre correu electrònic i contrasenya%store_name",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Hem rebut una sol·licitud per canviar la informació següent associada amb el vostre compte a%store_name: correu electrònic, contrasenya.",module,Magento_Customer
+"Reset your %store_name password","Restabliu la vostra contrasenya de%store_name",module,Magento_Customer
+"There was recently a request to change the password for your account.","Recentment hi ha hagut una sol·licitud per canviar la contrasenya del vostre compte.",module,Magento_Customer
+"If you requested this change, set a new password here:","Si heu sol·licitat aquest canvi, establiu una nova contrasenya aquí:",module,Magento_Customer
+"If you did not make this request, you can ignore this email and your password will remain the same.","Si no heu realitzat aquesta sol·licitud, podeu ignorar aquest correu electrònic i la vostra contrasenya continuarà sent la mateixa.",module,Magento_Customer
+"Your %store_name password has been changed","La vostra contrasenya de%store_name s'ha canviat",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: password.","Hem rebut una sol·licitud per canviar la informació següent associada amb el vostre compte a%store_name: contrasenya.",module,Magento_Customer
+"Checkout as a new customer","Comença com a client nou",module,Magento_Customer
+"Creating an account has many benefits:","La creació d’un compte té molts avantatges:",module,Magento_Customer
+"See order and shipping status","Consulteu l'estat de la comanda i l'enviament",module,Magento_Customer
+"Track order history","Fer el seguiment de l’historial de comandes",module,Magento_Customer
+"Check out faster","Fes una ullada més ràpida",module,Magento_Customer
+"Checkout using your account","Feu efectiu el vostre compte mitjançant el vostre compte",module,Magento_Customer
+"Email Address","Correu electrònic",module,Magento_Customer
+"Are you sure you want to do this?","Esteu segur que voleu fer-ho?",module,Magento_Customer
+"Are you sure you want to delete this address?","Esteu segur que voleu suprimir aquesta adreça?",module,Magento_Customer
+"Weak","Feble",module,Magento_Customer
+"Medium","Mitjà",module,Magento_Customer
+"Strong","Fort",module,Magento_Customer
+"Very Strong","Molt fort",module,Magento_Customer
+"Guest checkout is disabled.","La checkout de convidats està desactivada.",module,Magento_Customer
+"All Customers","Tots els clients",module,Magento_Customer
+"Now Online","Ara en línia",module,Magento_Customer
+"Customers Section","Secció de Clients",module,Magento_Customer
+"Customer Configuration","Configuració del client",module,Magento_Customer
+"Account Sharing Options","Opcions per compartir comptes",module,Magento_Customer
+"Share Customer Accounts","Comparteix els comptes de client",module,Magento_Customer
+"Create New Account Options","Creeu Opcions del compte noves",module,Magento_Customer
+"Enable Automatic Assignment to Customer Group","Activa l’assignació automàtica al grup de clients",module,Magento_Customer
+"Tax Calculation Based On","Basat en el càlcul d’impostos",module,Magento_Customer
+"Default Group","Grup per defecte",module,Magento_Customer
+"Group for Valid VAT ID - Domestic","Grup d'identificació vàlida d'IVA: domèstic",module,Magento_Customer
+"Group for Valid VAT ID - Intra-Union","Grup d'identificació vàlida d'IVA - Intra-Union",module,Magento_Customer
+"Group for Invalid VAT ID","Grup d'identificador d'IVA no vàlid",module,Magento_Customer
+"Validation Error Group","Grup d’errors de validació",module,Magento_Customer
+"Validate on Each Transaction","Validar cada transacció",module,Magento_Customer
+"Default Value for Disable Automatic Group Changes Based on VAT ID","Valor per defecte per desactivar els canvis automàtics del grup basats en un identificador d'IVA",module,Magento_Customer
+"Show VAT Number on Storefront","Mostra el número d’IVA a la finestra",module,Magento_Customer
+"To show VAT number on Storefront, set Show VAT Number on Storefront option to Yes.","Per mostrar el número d'IVA a primera línia, configureu l'opció Mostra el número d'IVA a la botiga davant de Sí.",module,Magento_Customer
+"Default Email Domain","Domini de correu electrònic predeterminat",module,Magento_Customer
+"Default Welcome Email","Correu electrònic de benvinguda predeterminat",module,Magento_Customer
+"Email template chosen based on theme fallback when Default option is selected.","Una plantilla de correu electrònic escollida en funció del recurs de recuperació del tema quan s'ha seleccionat l'opció Predeterminat.",module,Magento_Customer
+"Default Welcome Email Without Password","Correu electrònic de benvinguda predeterminat sense contrasenya",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />,module,Magento_Customer
+Email template chosen based on theme fallback when Default option is selected.","Aquest correu electrònic s’enviarà en lloc del correu electrònic de benvinguda predeterminat, si es va crear un client sense contrasenya. <br /> <br />, mòdul, Magento_Customer
+ Una plantilla de correu electrònic escollida en funció del recurs de recuperació del tema quan s'ha seleccionat l'opció Predeterminat.",module,Magento_Customer
+"Email Sender","Correu electrònic remitent",module,Magento_Customer
+"Require Emails Confirmation","Requereix confirmació de correus electrònics",module,Magento_Customer
+"Confirmation Link Email","Correu electrònic d’enllaç de confirmació",module,Magento_Customer
+"Welcome Email","Correu electrònic de benvinguda",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />,module,Magento_Customer
+Email template chosen based on theme fallback when Default option is selected.","Aquest correu electrònic s’enviarà en lloc del correu electrònic de benvinguda predeterminat, després de la confirmació del compte. <br /> <br />, mòdul, Magento_Customer
+ Una plantilla de correu electrònic escollida en funció del recurs de recuperació del tema quan s'ha seleccionat l'opció Predeterminat.",module,Magento_Customer
+"Generate Human-Friendly Customer ID","Genereu un identificador de client amigable per a les persones",module,Magento_Customer
+"Password Options","Opcions de contrasenya",module,Magento_Customer
+"Forgot Email Template","S'ha oblidat la plantilla de correu electrònic",module,Magento_Customer
+"Remind Email Template","Recorda la plantilla de correu electrònic",module,Magento_Customer
+"Reset Password Template","Restableix la plantilla de contrasenya",module,Magento_Customer
+"Password Template Email Sender","Plantilla de contrasenya Emissor de correu electrònic",module,Magento_Customer
+"Recovery Link Expiration Period (hours)","Període de caducitat de l'enllaç de recuperació (hores)",module,Magento_Customer
+"Please enter a number 1 or greater in this field.","Introduïu un número 1 o més en aquest camp.",module,Magento_Customer
+"Number of Required Character Classes","Nombre de classes de caràcters obligatoris",module,Magento_Customer
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Nombre de classes de caràcters diferents requerides amb contrasenya: minúscules, majúscules, xifres, caràcters especials.",module,Magento_Customer
+"Minimum Password Length","Longitud mínima de la contrasenya",module,Magento_Customer
+"Maximum Login Failures to Lockout Account","Fallades màximes d’inici de sessió al compte de bloqueig",module,Magento_Customer
+"Use 0 to disable account locking.","Utilitzeu 0 per desactivar el bloqueig del compte.",module,Magento_Customer
+"Lockout Time (minutes)","Temps de bloqueig (minuts)",module,Magento_Customer
+"Enable Autocomplete on login/forgot password forms","Activa la compleció automàtica en els formularis de contrasenya de sessió / oblidada",module,Magento_Customer
+"Account Information Options","Opcions d'informació del compte",module,Magento_Customer
+"Change Email Template","Canvia la plantilla de correu electrònic",module,Magento_Customer
+"Change Email and Password Template","Canvieu la plantilla de correu electrònic i contrasenya",module,Magento_Customer
+"Name and Address Options","Opcions de nom i adreça",module,Magento_Customer
+"Number of Lines in a Street Address","Nombre de línies en una adreça de carrer",module,Magento_Customer
+"Valid range: 1-4","Interval vàlid: 1-4",module,Magento_Customer
+"Show Prefix","Mostra el prefix",module,Magento_Customer
+"The title that goes before name (Mr., Mrs., etc.)","El títol que porta abans del nom (Mr., Mrs., etc.)",module,Magento_Customer
+"Prefix Dropdown Options","Opcions desplegables de prefix",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Leave empty for open text field.","Valors separats de punt i coma (;). <br/> Deixeu buit el camp de text obert.",module,Magento_Customer
+"Show Middle Name (initial)","Mostra el nom mitjà (inicial)",module,Magento_Customer
+"Always optional.","Sempre opcional.",module,Magento_Customer
+"Show Suffix","Mostra sufix",module,Magento_Customer
+"The suffix that goes after name (Jr., Sr., etc.)","El sufix que rep el nom (Jr., Sr., etc.)",module,Magento_Customer
+"Suffix Dropdown Options","Opcions desplegables del sufix",module,Magento_Customer
+"Show Date of Birth","Data de naixement",module,Magento_Customer
+"Show Tax/VAT Number","Mostra el número d'impostos / IVA",module,Magento_Customer
+"Show Gender","Mostra el gènere",module,Magento_Customer
+"Show Telephone","Mostrar telèfon",module,Magento_Customer
+"Show Company","Empresa de Show",module,Magento_Customer
+"Show Fax","Mostra el fax",module,Magento_Customer
+"Login Options","Opcions d’inici de sessió",module,Magento_Customer
+"Redirect Customer to Account Dashboard after Logging in","Redirecciona el client al Tauler de control del compte després de començar la sessió",module,Magento_Customer
+"Customer will stay on the current page if No is selected.","El client romandrà a la pàgina actual si selecciona No.",module,Magento_Customer
+"Address Templates","Plantilles d'adreces",module,Magento_Customer
+"Online Customers Options","Opcions de clients en línia",module,Magento_Customer
+"Online Minutes Interval","Minut en línia Interval",module,Magento_Customer
+"Leave empty for default (15 minutes).","Deixeu-lo buit per defecte (15 minuts).",module,Magento_Customer
+"Customer Data Lifetime","Dades del client Vida útil",module,Magento_Customer
+"Please specify value in minutes.","Especifiqueu el valor en pocs minuts.",module,Magento_Customer
+"Customer Notification","Notificació del client",module,Magento_Customer
+"Assign a Customer Group","Assigna un grup de clients",module,Magento_Customer
+"Are you sure to assign selected customers to new group?","Esteu segur d’assignar clients seleccionats a un grup nou?",module,Magento_Customer
+"Customer Grid","Graella de clients",module,Magento_Customer
+"Rebuild Customer grid index","Reconstruir l'índex de la graella de clients",module,Magento_Customer
+"Group","Grup",module,Magento_Customer
+"Add New Customer","Afegeix un nou client",module,Magento_Customer
+"Are you sure to delete selected customers?","Segur que suprimiu els clients seleccionats?",module,Magento_Customer
+"Delete items","Elimina els elements",module,Magento_Customer
+"Subscribe to Newsletter","Subscriu-te al butlletí",module,Magento_Customer
+"Are you sure to unsubscribe selected customers from newsletter?","Esteu segur de donar-vos de baixa de clients seleccionats del butlletí informatiu?",module,Magento_Customer
+"Unsubscribe from Newsletter","Donar-se de baixa de Newsletter",module,Magento_Customer
+"Phone","Telèfon",module,Magento_Customer
+"ZIP","ZIP",module,Magento_Customer
+"Customer Since","Client Des",module,Magento_Customer
+"Confirmed email","Correu electrònic confirmat",module,Magento_Customer
+"Account Created in","Compte creat a",module,Magento_Customer
+"Tax VAT Number","Número d’IVA fiscal",module,Magento_Customer
+"Billing Firstname","Nom de facturació",module,Magento_Customer
+"Billing Lastname","Cognom de facturació",module,Magento_Customer
+"Account Lock","Bloqueig del compte",module,Magento_Customer
+"First Name","Nom",module,Magento_Customer
+"Last Name","Cognom",module,Magento_Customer
+"Last Activity","Última activitat",module,Magento_Customer
+"Type","Tipus",module,Magento_Customer
+"Customer Information","Informació del consumidor",module,Magento_Customer
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.","Si la instal·lació de Magento té diversos llocs web, podeu editar l’abast per associar el client a un lloc específic.",module,Magento_Customer
+"Disable Automatic Group Change Based on VAT ID","Desactiva el canvi automàtic de grup basat en un identificador d'IVA",module,Magento_Customer
+"Send Welcome Email From","Enviar correu electrònic de benvinguda des de",module,Magento_Customer
+"Are you sure you want to delete this item?","Esteu segur que voleu suprimir aquest element?",module,Magento_Customer
+"Addresses","Adreces",module,Magento_Customer
+"Account Dashboard","Tauler de comptes",module,Magento_Customer
+"Edit Account Information","Edita informació del compte",module,Magento_Customer
+"Password forgotten","S'ha oblidat la contrasenya",module,Magento_Customer
+"My Dashboard","El meu Tauler",module,Magento_Customer
+"You are signed out","Heu tancat la sessió",module,Magento_Customer
+"You subscribe to our newsletter.","Us subscriviu a la nostra newsletter.",module,Magento_Customer
+"You don't subscribe to our newsletter.","No us subscriviu a la nostra newsletter.",module,Magento_Customer
+"Maximum length must be less then %1 symbols","La longitud màxima ha de ser inferior als símbols de%1",module,Magento_Customer
+"Invalid input","Entrada incorrecta",module,Magento_Customer
+"Confirm your new password.","Confirmeu la vostra nova contrasenya.",module,Magento_Customer
+"Something went wrong while changing the password.","Alguna cosa va fallar mentre es va canviar la contrasenya.",module,Magento_Customer
+"Please enter the first name.","Introduïu el nom.",module,Magento_Customer
+"Please enter the last name.","Introduïu el cognom.",module,Magento_Customer
+"Please enter the street.","Si us plau, entra al carrer.",module,Magento_Customer
+"Please enter the city.","Si us plau, entra a la ciutat.",module,Magento_Customer
+"Please enter the phone number.","Introduïu el número de telèfon.",module,Magento_Customer
+"Please enter the zip/postal code.","Introduïu el codi postal / postal.",module,Magento_Customer
+"Please enter the country.","Si us plau, introduïu el país.",module,Magento_Customer
+"Please enter a first name.","Introduïu un nom.",module,Magento_Customer
+"Please enter a last name.","Introduïu un cognom.",module,Magento_Customer
+"Please correct this email address: %1.","Corregiu aquesta adreça de correu electrònic: %1.",module,Magento_Customer
+"Please enter a date of birth.","Introduïu una data de naixement.",module,Magento_Customer
+"Please enter a TAX/VAT number.","Introduïu un número d’IMPOST / IVA.",module,Magento_Customer
+"Please enter a gender.","Introduïu un gènere.",module,Magento_Customer
+"'%value%' looks like a DNS hostname but we cannot match the TLD against known list.","%value%'sembla un nom d'amfitrió DNS, però no podem coincidir amb el TLD amb la llista coneguda.",module,Magento_Customer
+"You subscribe to General Subscription.","Us subscriviu a la Subscripció general.",module,Magento_Customer
+"Submit","Presentar",module,Magento_Customer
+"Login","iniciar Sessió",module,Magento_Customer
+"The password for your account has been successfully changed.","La contrasenya del vostre compte s'ha canviat correctament.",module,Magento_Customer
+"If you did not request this change, please contact us.","Si no heu sol·licitat aquest canvi, poseu-vos en contacte amb nosaltres.",module,Magento_Customer
+"Checkout out as a new customer","Feu la sortida com a client nou",module,Magento_Customer
+"Create Account","Crear compte",module,Magento_Customer
+"Checkout out using your account","Feu la sortida amb el vostre compte",module,Magento_Customer
+"Recovery Link Expiration Period (days)","Període de caducitat de l'enllaç de recuperació (dies)",module,Magento_Customer
+"Leave empty for default (2). Valid range: 1-4","Deixeu-lo buit per defecte (2). Interval vàlid: 1-4",module,Magento_Customer
+"Semicolon (;) separated values.<br/>Put semicolon in the beginning for empty first option.<br/>Leave empty for open text field.","Valors separats del punt i coma (;). <br/> Poseu el punt i coma al principi per a la primera opció buida. <br/> Deixeu el camp buit de text buit.",module,Magento_Customer
+"Last Logged In","Últim accés",module,Magento_Customer
+"If your Magento site has multiple views, you can set the scope to apply to a specific view.","Si el vostre lloc Magento té diverses vistes, podeu definir l’abast per aplicar-lo a una vista específica.",module,Magento_Customer
+"You are signed out.","Heu tancat la sessió.",module,Magento_Customer
+"Invalid value of %value provided for the %fieldName field. Possible values are %template1 or %template2.","El valor no vàlid del %valor es proporciona al camp%campNom. Els valors possibles són%template1 o%template2.",module,Magento_Customer
+"Could not authenticate. Please try again later","No s'ha pogut autenticar. Siusplau, intenta-ho més tard",module,Magento_Customer
+"Page not found","Pàgina no trobada",module,Magento_Customer
+"Account will be unlocked after provided time.","El compte es desbloquejarà després del temps previst.",module,Magento_Customer
+"Text","Text",module,Magento_Customer
+"Text One Line","Una línia de text",module,Magento_Customer
+"HTML","HTML",module,Magento_Customer
+"PDF","PDF",module,Magento_Customer
+"The account is locked. Please wait and try again or contact %1.","El compte està bloquejat. Espereu i torneu-ho a provar o contacteu amb%1.",module,Magento_Customer
+"Provided Zip/Postal Code seems to be invalid.","Sembla que el codi postal / postal no és vàlid.",module,Magento_Customer
+" Example: ","Exemple:",module,Magento_Customer
+"If you believe it is the right one you can ignore this notice.","Si creieu que és el correcte, podeu ignorar aquest avís.",module,Magento_Customer
+"Invalid Form Key. Please refresh the page.","Clau del formulari no vàlida. Actualitza la pàgina.",module,Magento_Customer
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","L’inici de sessió del compte ha estat incorrecte o el seu compte està desactivat temporalment. Espereu i torneu-ho a provar més endavant.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","La contrasenya no coincideix amb aquest compte. Verifiqueu la contrasenya i torneu-ho a provar.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","L’adreça de correu electrònic és incorrecta. Verifiqueu l'adreça de correu electrònic i torneu-ho a provar.",module,Magento_Customer
+"The customer ID isn't defined.","L'identificador de client no està definit.",module,Magento_Customer
+"The quote items are incorrect. Verify the quote items and try again.","Els articles de cotització són incorrectes. Verifiqueu els articles de cotització i torneu-ho a provar.",module,Magento_Customer
+"The %1 section source isn't supported.","La font de la secció %1 no és compatible.",module,Magento_Customer
+"Confirmation isn't needed.","No es necessita confirmació.",module,Magento_Customer
+"The account is already active.","El compte ja està actiu.",module,Magento_Customer
+"The confirmation token is invalid. Verify the token and try again.","El testimoni de confirmació no és vàlid. Verifiqueu el testimoni i torneu-ho a provar.",module,Magento_Customer
+"This account isn't confirmed. Verify and try again.","Aquest compte no està confirmat. Verifiqueu-ho i torneu-ho a provar.",module,Magento_Customer
+"The password needs at least %1 characters. Create a new password and try again.","La contrasenya necessita almenys%1 caràcters. Creeu una nova contrasenya i torneu-ho a provar.",module,Magento_Customer
+"The password can't begin or end with a space. Verify the password and try again.","La contrasenya no pot començar ni finalitzar amb un espai. Verifiqueu la contrasenya i torneu-ho a provar.",module,Magento_Customer
+"The password can't be the same as the email address. Create a new password and try again.","La contrasenya no pot ser la mateixa que l'adreça de correu electrònic. Creeu una nova contrasenya i torneu-ho a provar.",module,Magento_Customer
+"The store view is not in the associated website.","La visualització de la botiga no es troba al lloc web associat.",module,Magento_Customer
+"A customer with the same email address already exists in an associated website.","Ja existeix un client amb la mateixa adreça de correu electrònic en un lloc web associat.",module,Magento_Customer
+"%fieldName is required. Enter and try again.","%fieldName és obligatori. Introduïu i torneu-ho a provar.",module,Magento_Customer
+"The password token is mismatched. Reset and try again.","El testimoni de la contrasenya no es correspon. Restableix i prova de nou.",module,Magento_Customer
+"The password token is expired. Reset and try again.","El testimoni de la contrasenya ha caducat. Restableix i prova de nou.",module,Magento_Customer
+"The transactional account email type is incorrect. Verify and try again.","El tipus de correu electrònic del compte transaccional és incorrecte. Verifiqueu-ho i torneu-ho a provar.",module,Magento_Customer
+"A valid password reset token is missing. Enter and try again.","Falta un testimoni de restabliment de contrasenya vàlid. Introduïu i torneu-ho a provar.",module,Magento_Customer
+"The customer email is missing. Enter and try again.","Falta el correu electrònic del client. Introduïu i torneu-ho a provar.",module,Magento_Customer
+"A customer website ID wasn't specified. The ID must be specified to use the website scope.","No s'ha especificat un identificador de lloc web de client. S'ha d'especificar l'ID per utilitzar l'abast del lloc web.",module,Magento_Customer
+"regionId is required. Enter and try again.","Cal regionId. Introduïu i torneu-ho a provar.",module,Magento_Customer
+"Delete %1","Suprimeix %1",module,Magento_Customer
+"Are you sure you want to delete a %1 record?","Confirmeu que voleu suprimir un registre%1?",module,Magento_Customer
+"Customer not logged in","El client no s'ha iniciat la sessió",module,Magento_Customer
+"There is no address id in setting default billing address.","No hi ha cap id d’adreça a l’hora de configurar l’adreça de facturació predeterminada.",module,Magento_Customer
+"Default billing address has been changed.","S'ha canviat l'adreça de facturació per defecte.",module,Magento_Customer
+"We can't change default billing address right now.","No podem canviar l’adreça de facturació per defecte ara mateix.",module,Magento_Customer
+"There is no address id in setting default shipping address.","No heu identificat cap adreça per definir l'adreça d'enviament predeterminada.",module,Magento_Customer
+"Default shipping address has been changed.","S'ha canviat l'adreça d'enviament per defecte.",module,Magento_Customer
+"We can't change default shipping address right now.","No podem canviar l’adreça d’enviament predeterminada ara mateix.",module,Magento_Customer
+"A total of %1 record(s) have been deleted.","S'han suprimit un total de%1 registres.",module,Magento_Customer
+"There is no such address entity to delete.","No hi ha cap entitat d'adreça tal d'esborrar.",module,Magento_Customer
+"We can't mass delete the addresses right now.","No podem suprimir massivament les adreces ara mateix.",module,Magento_Customer
+"Customer address has been updated.","L’adreça del client s’ha actualitzat.",module,Magento_Customer
+"New customer address has been added.","S'ha afegit una nova adreça de client.",module,Magento_Customer
+"There is no customer with such id.","No hi ha cap client amb aquest identificador.",module,Magento_Customer
+"We can't change customer address right now.","No podem canviar l’adreça del client ara mateix.",module,Magento_Customer
+"Street","Carrer",module,Magento_Customer
+"Set as default billing","Definiu com a facturació predeterminada",module,Magento_Customer
+"Set address as default billing","Definiu l'adreça com a facturació predeterminada",module,Magento_Customer
+"Are you sure you want to set the address as default billing address?","Esteu segur que voleu definir l’adreça com a adreça de facturació predeterminada?",module,Magento_Customer
+"Set as default shipping","Estableix com a enviament predeterminat",module,Magento_Customer
+"Set address as default shipping","Definiu l'adreça com a enviament predeterminat",module,Magento_Customer
+"Are you sure you want to set the address as default shipping address?","Esteu segur que voleu definir l’adreça com a adreça d’enviament predeterminada?",module,Magento_Customer
+"Delete address","Suprimeix l'adreça",module,Magento_Customer
+"Are you sure you want to delete the address?","Esteu segur que voleu suprimir l'adreça?",module,Magento_Customer
+"Additional addresses","Adreces addicionals",module,Magento_Customer
+"State","Estat",module,Magento_Customer
+"Actions","Accions",module,Magento_Customer
+"Sorry, there has been an error processing your request. Please try again later.","Ho sentim, s'ha produït un error en processar la sol·licitud. Siusplau, intenta-ho més tard.",module,Magento_Customer
+"Reset password","Restablir la contrasenya",module,Magento_Customer
+"Invalidate tokens","Invalidar els testimonis",module,Magento_Customer
+"Update Address","Adreça d’actualització",module,Magento_Customer
+"Name Prefix","Prefix de nom",module,Magento_Customer
+"Name Suffix","Sufix de nom",module,Magento_Customer
+"Middle Name/Initial","Nom mitjà / Inicial",module,Magento_Customer
+"Are you sure to delete selected address?","Segur que suprimiu l'adreça seleccionada?",module,Magento_Customer
+"Are you sure you want to delete the selected customers?","Esteu segur que voleu suprimir els clients seleccionats?",module,Magento_Customer
+"Are you sure you want to unsubscribe the selected customers from the newsletter?","Esteu segur que voleu donar-vos de baixa dels clients seleccionats del butlletí?",module,Magento_Customer
+"The customer does not have default billing address","El client no té una adreça de facturació predeterminada",module,Magento_Customer
+"The customer does not have default shipping address","El client no té una adreça d’enviament predeterminada",module,Magento_Customer
